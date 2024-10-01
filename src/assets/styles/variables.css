@@ -1,0 +1,19 @@
+:root {
+    --grey-bg: #F6F6F6;
+    --main-blue: #123785;
+    --error-red: #D21111;
+    --alert-red: #F04949;
+    --warning-yellow: #F0EA53;
+    --okay-green: #71DA67;
+    --base-transition: all 0.2s ease;
+
+
+    --main-front-family: "Roboto", sans-serif;
+    --main-bg-color: #1f1f1f;
+    --yellow-bg-color: rgba(255, 210, 0, 1);
+    --main-color: #fff;
+    --color-active: #f7e2d8;
+    --color-blue: #3498db;
+    --color-red: red;
+    --font-size-12: calc(12px + 0 * ((100vw - 320px) / (1920 - 320)));
+}
